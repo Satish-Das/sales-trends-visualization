@@ -1,0 +1,36 @@
+{
+  "logistic_regression": {
+    "roc_auc": 0.9998251442559888,
+    "accuracy": 0.9916142557651991,
+    "churn_precision": 0.9923664122137404,
+    "churn_recall": 0.9774436090225563
+  },
+  "random_forest": {
+    "roc_auc": 1.0,
+    "accuracy": 0.9979035639412998,
+    "churn_precision": 0.9925373134328358,
+    "churn_recall": 1.0
+  },
+  "top_features": [
+    {
+      "feature": "Recency",
+      "importance": 0.38319504201298005
+    },
+    {
+      "feature": "order_frequency_rate",
+      "importance": 0.2615769981755241
+    },
+    {
+      "feature": "R_Score",
+      "importance": 0.16498928041469887
+    },
+    {
+      "feature": "Frequency",
+      "importance": 0.04663615215212178
+    },
+    {
+      "feature": "total_orders",
+      "importance": 0.04657924624751674
+    }
+  ]
+}

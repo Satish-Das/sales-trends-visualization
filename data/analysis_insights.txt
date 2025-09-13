@@ -1,0 +1,23 @@
+
+SUPERSTORE ANALYSIS - KEY INSIGHTS
+=====================================
+
+BUSINESS PERFORMANCE:
+• Total Revenue: $12,642,502 with 11.6% profit margin
+• YoY Growth: 26.3% (positive trend)
+• Average Order Value: $504.99
+
+CUSTOMER INSIGHTS:
+• Total Customers: 1,590 with 27.5% churn rate
+• Customer Retention: 15.2% after 1 month
+• Champions Segment: 21.8% of customers
+
+TOP PERFORMERS:
+• Best Region: Central ($2,822,303)
+• Best Category: Technology ($4,744,557)
+• Peak Month: December 
+
+OPPORTUNITIES:
+• Focus on 'Corporate' segment (highest churn: 28.6%)
+• Develop retention programs for months 2-3 (retention drops to 17.8%)
+• Optimize low-performing regions and categories

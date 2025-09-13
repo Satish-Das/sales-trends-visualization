@@ -1,0 +1,20 @@
+{
+  "total_rows": 51290,
+  "total_columns": 33,
+  "date_range": {
+    "start": "2011-01-01 00:00:00",
+    "end": "2014-12-31 00:00:00"
+  },
+  "unique_counts": {
+    "orders": 25035,
+    "customers": 1590,
+    "products": 10292,
+    "categories": 3,
+    "regions": 13
+  },
+  "metrics": {
+    "total_revenue": 12642501.909880001,
+    "total_profit": 1467457.29128,
+    "avg_order_value": 504.99308607469555
+  }
+}
