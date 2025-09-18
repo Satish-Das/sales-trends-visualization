@@ -1,5 +1,7 @@
 # 📊 Superstore Sales & Customer Analytics Dashboard
 
+![Project Banner](/images/project_banner.png)
+
 A comprehensive end-to-end data analytics project that transforms the Global Superstore dataset into actionable business intelligence. This project showcases advanced data processing, customer behavior analysis, predictive modeling, and interactive visualization capabilities through a production-ready dashboard.
 
 ## 🎯 Project Overview
